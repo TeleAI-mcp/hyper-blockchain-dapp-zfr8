@@ -1,2 +1,3 @@
-# hyper-blockchain-dapp-zfr8
+# Hyper Blockchain Dapp Zfr8
+
 A blockchain decentralized application for modern development workflows.
